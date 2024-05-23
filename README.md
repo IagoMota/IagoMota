@@ -1,8 +1,8 @@
 # Iago Mota
 
-I'm a developer who loves coding!
+| I'm a developer who loves coding! |
 | ---- | ---- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=iagomota&count_private=true&theme=chartreuse-dark&show_icons=true)|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=iagomota&count_private=true&theme=chartreuse-dark&show_icons=true) |
 
 ## Involved in:
 
