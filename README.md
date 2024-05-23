@@ -1,8 +1,7 @@
 # Iago Mota
 
-| I'm a developer who loves coding! | |
+| I'm a developer who loves coding! | 
 | ---- | ---- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=idrinth&count_private=true&theme=chartreuse-dark&show_icons=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrinth&theme=chartreuse-dark&langs_count=10&layout=compact) |
 
 ## Involved in:
 
