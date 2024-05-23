@@ -1,7 +1,7 @@
 # Iago Mota
 
-| I'm a developer who loves coding! | 
-| ---- | ---- |
+I'm a developer who loves coding!
+
 
 ## Involved in:
 
